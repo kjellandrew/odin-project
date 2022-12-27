@@ -49,3 +49,5 @@ Unordered List
    * Item
 
 # End of document {#end}
+
+I do wish that this feature worked correctly. But, it's not supported in VS Code.
